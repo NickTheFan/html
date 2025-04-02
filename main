@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site</title>
+</head>
+<body>
+    <h1>Hello World!</h1>
+    <p><i><strong>Lorem</strong></i> ipsum dolor sit amet consectetur adipisicing elit. Illo aliquam eum odio rerum, eos vero laudantium in veniam officia aperiam laborum sint reiciendis iste similique. Autem voluptas delectus dignissimos commodi.</p>
+    <ul style="list-style-type: square; color: firebrick; "> Skibidi Sigma
+        <li style="color: blue;">Шкибиди</li>
+        <li style="color: rgb(14, 99, 99);">Сигма</li>
+        <li style="color: coral;">Альфа</li>
+        <li style="color: rgb(247, 0, 0);">Самец
+            <ul>
+                <li style="color: rgb(255, 153, 0);">Настоящий</li>
+                <li style="color: rgb(255, 153, 0);">Сигма бой
+                    <ul>
+                        <li style="color: rgb(255, 238, 0);">Сильный и отважный</li>
+                        <li style="color: rgb(255, 238, 0);">За отечество горой
+                            <ul>
+                                <li style="color: green;">Настоящий
+                                    <ul>
+                                        <li style="color: aqua;">Сигма бой
+                                            <ul>
+                                                <li style="color: blue;">Сигма бой
+                                                    <ul>
+                                                        <li style="color: purple;">Сигма бой
+
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+    </ul>
+    <ol style="color: rgb(17, 109, 78); "> Skibidi Sigma
+        <li style="color: blue;">Шкибиди</li>
+        <li style="color: rgb(14, 99, 99);">Сигма</li>
+        <li style="color: coral;">Альфа</li>
+        <li style="color: rgb(0, 247, 62);">Самец</li>
+    </ol>
+    <a href="https://yandex.ru/games/app/310678" target="_blank">Моя коронная ссылка</a>
+</body>
+</html>
