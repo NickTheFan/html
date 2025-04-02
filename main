@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,27 +7,27 @@
     <title>Site</title>
 </head>
 <body>
-    <h1>Hello World!</h1>
-    <p><i><strong>Lorem</strong></i> ipsum dolor sit amet consectetur adipisicing elit. Illo aliquam eum odio rerum, eos vero laudantium in veniam officia aperiam laborum sint reiciendis iste similique. Autem voluptas delectus dignissimos commodi.</p>
-    <ul style="list-style-type: square; color: firebrick; "> Skibidi Sigma
-        <li style="color: blue;">Шкибиди</li>
-        <li style="color: rgb(14, 99, 99);">Сигма</li>
-        <li style="color: coral;">Альфа</li>
-        <li style="color: rgb(247, 0, 0);">Самец
+    <h1 style="text-align: center;">Главная страница</h1>
+    <h3 id="pizza" style="text-align: center;">Пицца</h3>
+    <p><i><strong>Lorem ipsum </strong> dolor sit amet </i> consectetur adipisicing elit. Illo aliquam eum odio rerum, eos vero laudantium in veniam officia aperiam laborum sint reiciendis iste similique. Autem voluptas delectus dignissimos commodi.</p>
+    <ul style="list-style-type: armenian; color: rgb(122, 2, 2); "> Skibidi Sigma
+        <li><a href="app/about.html">О нас</a></li>
+        <li><a href="app/news.html">Новости</a></li>
+        <li><a href="app/news.html">Помощь</a></li>
+        <li>--------------</li>
+        <li style="color: red;">Каждый
             <ul>
-                <li style="color: rgb(255, 153, 0);">Настоящий</li>
-                <li style="color: rgb(255, 153, 0);">Сигма бой
+                <li style="color: rgb(255, 153, 0);">Охотник
                     <ul>
-                        <li style="color: rgb(255, 238, 0);">Сильный и отважный</li>
-                        <li style="color: rgb(255, 238, 0);">За отечество горой
+                        <li style="color: rgb(219, 205, 11);">Желает    
                             <ul>
-                                <li style="color: green;">Настоящий
+                                <li style="color: green;">Знать
                                     <ul>
-                                        <li style="color: aqua;">Сигма бой
+                                        <li style="color: rgb(0, 183, 255);">Где
                                             <ul>
-                                                <li style="color: blue;">Сигма бой
+                                                <li style="color: blue;">Сидит
                                                     <ul>
-                                                        <li style="color: purple;">Сигма бой
+                                                        <li style="color: purple;">Фазан
 
                                                         </li>
                                                     </ul>
@@ -42,12 +43,20 @@
             </ul>
         </li>
     </ul>
-    <ol style="color: rgb(17, 109, 78); "> Skibidi Sigma
-        <li style="color: blue;">Шкибиди</li>
-        <li style="color: rgb(14, 99, 99);">Сигма</li>
-        <li style="color: coral;">Альфа</li>
-        <li style="color: rgb(0, 247, 62);">Самец</li>
-    </ol>
     <a href="https://yandex.ru/games/app/310678" target="_blank">Моя коронная ссылка</a>
+    <a href="https://unicef.org/" target="_blank">хахахах смешная ссылочка</a>
+    <img src="" alt="">
+    
+    <a href="https://службапоконтракту.рф/" target="_blank">аналог дискорд в рф</a>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias cum nobis
+         perspiciatis incidunt dolorem quia debitis voluptates,
+          iusto nisi voluptas! Facere optio minima ducimus a officia
+           quam incidunt minus molestiae! Lorem ipsum dolor, 
+           sit amet consectetur adipisicing elit. 
+           Quae dolores consequuntur culpa itaque quaerat in error, 
+           totam provident amet tempora non inventore id quis 
+           exercitationem consequatur excepturi! Atque, facere assumenda?</p>
+    <a href="#pizza">Пицца</a>
+    <img style = "height: 8.8cm; width: 5cm;" src="https://i.pinimg.com/736x/01/b7/28/01b728d38cb1b7f516ae82959157ad1b.jpg" >
 </body>
 </html>
