@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Fontick;
+    src: url(fonts/RFToneSemibold.otf) format(opentype);
+    font-weight: normal;
+    font-style: normal;
+  }
+p {
+    font-family: 'Fontick', Arial, sans-serif;
+}
