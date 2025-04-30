@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>Портфолио Никиты Литвиненко</title>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="main.css">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
@@ -37,6 +37,60 @@
       border-radius: 10px;">
       <strong>Выпей!</strong>
     </p>
+  </div>
+  <div style="
+  background-image: url('images/nasa-Q1p7bh3SHj8-uns.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;">
+    <p style="
+      color: white;
+      font-size: 5rem;
+      text-align: center;
+      padding: 20px;
+      border-radius: 10px;">
+    </p>
+  </div>
+  <div style="
+  background-image: url('images/bb.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;">
+    <p style="
+      color: white;
+      font-size: 2rem;
+      text-align: center;
+      padding: 20px;
+      border-radius: 10px;">
+      <strong>Никита Литвиненко, Официальный фанат Доброго: <br> Да, добрый такой хороший! </br> <br>Меня зовут Никита, мне 13 лет. 
+        Я увлекаюсь программированием, играю в «Хойку» и «Роблокс». В настоящее время я владелец 
+        мини-студии и создаю простые игры. Если вы разделяете мои интересы, приглашаю вас ознакомиться с моими проектами.</br><br><button class="btn btn-light rounded-pill px-3" type="button" onclick="window.location.href='https://github.com/NickTheFan';">Мой ГитХаб</button></br></strong>
+    </p>
+  <div style="
+  background-image: url('images/bb.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;">
+    <p style="
+      color: white;
+      font-size: 2rem;
+      text-align: center;
+      padding: 20px;
+      border-radius: 10px;">
+      
+    </p>
+    
+    
+
   </div>
 </body>
 </html>
